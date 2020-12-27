@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Web.Controllers
 {
-    public class HomeController1 : Controller
+    public class DenemeController : Controller
     {
         public IActionResult Index()
         {
