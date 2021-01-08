@@ -112,3 +112,7 @@ C:\Users\Lenovo\source\repos\Kodluyoruz\Web\obj\Debug\netcoreapp3.1\Web.dll
 C:\Users\Lenovo\source\repos\Kodluyoruz\Web\obj\Debug\netcoreapp3.1\Web.pdb
 C:\Users\Lenovo\source\repos\Kodluyoruz\Web\obj\Debug\netcoreapp3.1\Web.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\Kodluyoruz\Web\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\_View.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Kodluyoruz\Web\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Kodluyoruz\Web\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\_HeaderView.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Kodluyoruz\Web\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\_SideBarView.cshtml.g.cs
+C:\Users\Lenovo\source\repos\Kodluyoruz\Web\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\_FooterView.cshtml.g.cs

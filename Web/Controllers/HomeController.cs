@@ -23,21 +23,32 @@ namespace Web.Controllers
             return View();
         }
 
-        public ActionResult Login()
-        {
-            return View();
-        }
-
-        public IActionResult Index(string degisken)
-        {
-            return View();
-        }
-
         public IActionResult Privacy()
         {
             return View();
         }
 
+        public ActionResult Login() 
+        {
+            return View("~/Views/Home/NewFolder/Login.cshtml");
+        }
+        [HttpPost]
+
+        /*public ActionResult Login(Models.Login data)
+        {
+            if (data userName = = "kodluyoruz")
+            {
+                if (CheckUserName(data.password))
+                {
+                    return View("Index");
+                }
+                return View(Erro);
+
+            }
+            return View("~Shared/_Layout.cshtml");
+        }
+
+        private bool CheckUserName(string pass);*/
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
